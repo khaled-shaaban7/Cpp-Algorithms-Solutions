@@ -42,7 +42,7 @@ void PrintFullName(string FullName)
 }
 int main()
 {
-	PrintFullName(GetFullName(ReadInfo(), true));
+	PrintFullName(GetFullName(ReadInfo(), false));
 
 }
 
