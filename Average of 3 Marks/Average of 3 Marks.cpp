@@ -18,9 +18,9 @@ float CalculateAverage(int Total)
     return Total/3;
 }
 
-void PrintTheAverage(int Total)
+void PrintTheAverage(int Average)
 {
-    cout << "\n the Average is : " << Total << endl;
+    cout << "\n the Average is : " << Average << endl;
 }
 int main()
 {
