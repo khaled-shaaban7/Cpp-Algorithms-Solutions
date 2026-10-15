@@ -15,10 +15,10 @@ int SumThreeMarks(int arr[3])
 }
 float CalculateAverage(int Total)
 {
-    return Total/3;
+    return (float)Total/3;
 }
 
-void PrintTheAverage(int Average)
+void PrintTheAverage(float Average)
 {
     cout << "\n the Average is : " << Average << endl;
 }
