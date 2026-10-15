@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Triangle Area.vcxproj" />
+  <Project Path="Triangle Area.vcxproj" Id="455fdf96-b6d9-46af-9ee6-b27516ed6ffa" />
 </Solution>

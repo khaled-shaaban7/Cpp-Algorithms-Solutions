@@ -3,10 +3,10 @@ using namespace std;
 
 void ReadNumbers(float& Base, float& Height)
 {
-	cout << "Please enter rectangle Base " << endl;
+	cout << "Please enter Triangle Base " << endl;
 	cin >> Base;
 
-	cout << "Please enter rectangle Height" << endl;
+	cout << "Please enter Triangle Height" << endl;
 	cin >> Height;
 }
 
@@ -19,7 +19,7 @@ float TriangleArea(float Base, float Height)
 }
 void PrintResults(float Area)
 {
-	cout << "\n Rectangle Area = " << Area << endl;
+	cout << "\n Triangle Area = " << Area << endl;
 }
 int main()
 {
