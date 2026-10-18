@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Print Numbers from N to 1.vcxproj" Id="569792ee-c0b5-4fc8-849d-12b32fa41bb6" />
+</Solution>
