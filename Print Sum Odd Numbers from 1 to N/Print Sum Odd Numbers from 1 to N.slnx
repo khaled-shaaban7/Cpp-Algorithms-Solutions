@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Print Sum Odd Numbers from 1 to N.vcxproj" Id="1a55cb3e-6a95-4207-824e-5339f94278cb" />
+</Solution>
