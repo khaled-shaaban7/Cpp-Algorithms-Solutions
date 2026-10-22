@@ -35,12 +35,14 @@ int PowerOfM(int M ,int Number)
 	for (int counter = 1;counter<=M;counter++)
 	{
 		Pow = Pow * Number;
-	}
+	} 
 	return Pow;
 }
 int main()
 {
-	cout << PowerOfM(ReadPower("Enter The Power"), ReadPositiveNumber("Enter a Positive Number")) << endl;
+	int Pow = PowerOfM(ReadPower("Enter The Power"), ReadPositiveNumber("Enter a Positive Number"));
+
+	cout << "\n Result = " << Pow << endl;
 
 	return 0;
 }
