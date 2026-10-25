@@ -19,16 +19,16 @@ float ReadPositiveNumber(string Message)
 
 float HoursToDays(float Hours)
 {
-    return (float)Hours / 24;
+    return Hours / 24;
 }
 
 float HoursToWeeks(float Hours)
 {
-    return (float)Hours / 24 / 7;
+    return Hours / 24 / 7;
 }
 float DaysToWeeks(float Days)
 {
-    return (float)Days / 7;
+    return Days / 7;
 }
 
 
@@ -44,7 +44,7 @@ int main()
     cout << "Total Weeks = " << NumberOfWeeks  << endl;
     cout << "Hours To Weeks = " << HoursToWeeks(NumberOfHours) << endl;
 
-    cout << "\n*******************************************\n";
+    cout << "\n______________________________________________________\n";
 
 
     return 0;
