@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Is Prime Number.vcxproj" Id="8ec29355-db0c-40a9-ac1a-83442ad27f05" />
+</Solution>
