@@ -15,9 +15,9 @@ int ReadPositiveNumber(string Message)
     return Number;
 }
 
-void DigitFrequency(int Number2 ,int Number )
+int CountDigitFrequency(short DigitToCheck,int Number )
 {
-    int Reminder = 0, Sum = 0;
+    int Reminder = 0, Frequency = 0;
 
     while (Number > 0)
     {
@@ -25,17 +25,22 @@ void DigitFrequency(int Number2 ,int Number )
 
         Number = Number / 10;
         
-        if (Reminder == Number2)
-            Sum += 1;
+        if (Reminder == DigitToCheck)
+            Frequency++;
 
     }
     
-    cout << "Digit " << Number2 << " Frequency is " << Sum << " Time(s)." <<endl;
-
+    return Frequency;
 }
 
 int main()
 {
-    DigitFrequency(ReadPositiveNumber("Enter a Positive Number 2 " ) , ReadPositiveNumber("Enter a Positive Number "));    
+    int Number = ReadPositiveNumber("Please enter the main number ");
+    
+    short DigitToCheck = ReadPositiveNumber("Please enter one digit to check");
+
+
+    cout << "\nDigit " << DigitToCheck << " Frequency is " 
+        << CountDigitFrequency(DigitToCheck, Number) << " Time(s).\n";
 }
 
