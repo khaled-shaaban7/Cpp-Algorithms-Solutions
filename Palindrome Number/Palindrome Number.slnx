@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Palindrome Number.vcxproj" Id="bcf53ca7-9e33-44df-ba23-881f1a492fae" />
+</Solution>
