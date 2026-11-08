@@ -15,7 +15,7 @@ int ReadPositiveNumber(string Message)
     return Number;
 }
 
-void PrintLetterPattern()
+void PrintAllFromAAAtoZZZ()
 {
     cout << "\n";
     string word = "";
@@ -36,12 +36,12 @@ void PrintLetterPattern()
             }
             
         }
-        
+        cout << "\n____________________________\n";
     }
 }
 
 int main()
 {
-    PrintLetterPattern();
+    PrintAllFromAAAtoZZZ();
     return 0;
 }

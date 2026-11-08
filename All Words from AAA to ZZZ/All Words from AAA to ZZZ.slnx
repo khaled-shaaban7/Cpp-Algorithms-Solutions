@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="All Words from AAA to ZZZ.vcxproj" />
+  <Project Path="All Words from AAA to ZZZ.vcxproj" Id="e92cc479-41ab-46ca-a1c3-a299e4c22ed8" />
 </Solution>
