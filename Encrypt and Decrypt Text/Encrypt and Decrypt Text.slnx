@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Encrypt and Decrypt Text.vcxproj" Id="a4ca4bce-d2b2-487f-8a60-e600549ff7d5" />
+</Solution>
