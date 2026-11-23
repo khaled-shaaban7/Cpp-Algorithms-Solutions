@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Copy only prime numbers.vcxproj" Id="bebc93f8-5358-4352-9c91-86244e2fab2c" />
+</Solution>
