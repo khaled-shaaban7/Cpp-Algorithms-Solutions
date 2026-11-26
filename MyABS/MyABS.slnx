@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyABS.vcxproj" Id="32663354-c433-4e83-b6cb-a93e31fa29c0" />
+</Solution>
