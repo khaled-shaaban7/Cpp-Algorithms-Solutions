@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyCeil.vcxproj" Id="723cc59c-7d5f-4b15-a4dd-a95257c40488" />
+</Solution>
